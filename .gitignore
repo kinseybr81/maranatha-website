@@ -1,0 +1,14 @@
+# Google Apps Script and Cloudflare Worker backups
+MBF-Forms-Code-v23-Backup.gs
+MBF-Forms-Worker-Diagnostic-Backup.js
+js/gs stuff.txt
+
+# Windows-generated files
+Thumbs.db
+Desktop.ini
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
